@@ -1,6 +1,6 @@
 # Jungtin-Todos
 
-## Site : https://nguyentrungthinh2000.github.io/todos-vue-deploy/
+## Site : https://jungtin.github.io/todos-vue-deploy
 
 ## Introduction 
  - This is an application just implemented frontend only <3
