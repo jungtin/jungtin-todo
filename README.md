@@ -1,20 +1,25 @@
-# Jungtin-Todos
+# Jungtin Todo
 
-## Site : https://jungtin.github.io/todos-vue-deploy
+Mini project dùng để ứng dụng các kiến thức đã được dạy trên khoá học Udemy
 
-## Introduction 
- - This is an application just implemented frontend only <3
+## Miêu tả
 
-### Tech
-This project was powered by Vue.js
-includes : 
-* [Vue] - Frontend Framework
-* [Vuex] - For components communication
+> Ứng dụng todo nơi bạn có thể tạo & quản lý các việc cần làm trong ngày. 
+> Đây là repo được build từ vuejs client
 
+## Tính năng
 
-**Have Fun,   ___JungTin !**
+- Quản lý label/mục (thêm và xoá) (*1 mục có nhiều todo)
+- Quản lý todo (thêm) (*1 todo nhiều task)
+- Quản lý task (thêm, xoá, markdone)
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   
-   [Vue]: <https://vuejs.org>
-   [Vuex]: <https://vuex.vuejs.org>
+Tham khảo thêm Spring Boot, MVC + API tại [Jungtin Todo - Server](https://github.com/jungtin01/todo-server)
+Tham khảo thêm Client Source Code tại [Jungtin Todo - Client](https://github.com/jungtin01/todo-client)
+
+## Screenshots
+<p align="center">
+  <img src="https://github.com/jungtin/jungtin-todo/blob/master/readme/1.jpeg">
+</p>
+
+## Deploy
+Truy cập tại [Jungtin Todo](https://jungtin.github.io/jungtin-todo)
